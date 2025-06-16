@@ -1,4 +1,4 @@
-module.exports = {
+mnpmodule.exports = {
   "version": 2,
   "builds": [
     {
